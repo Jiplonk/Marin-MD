@@ -215,7 +215,7 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
         listMessage: {
             title: `*Hai* ${name}`,
             description: `${ucapan()}\n*Silahkan Pilih List Menu*\n*Di Bawah Ya*`,
-            buttonText: 'LIST MENU',
+            buttonText: 'LIST MENU 𝙆𝘼𝙕𝙐𝙆𝙄𝙈𝘿☣️',
             listType: 1,
             footerText: "Silahkan Tekan Tombol \"LIST MENU\" Untuk Melihat Menu Bot\n\nJika Menemukan Bug/Kesulitan Dalam Penggunaan Bot Silahkan Laporkan/Tanyakan Kepada Owner",
             mtype: 'listMessage',
